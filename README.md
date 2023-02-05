@@ -10,6 +10,13 @@
   Projeto com finalidade de desenvolver um conjunto de endpoints que serao disponibilizados para o time de frontend desenvolver o site. 
 </p>
 
+## Observações 
+
+<p align="justify">
+  Sempre, antes de qualquer requisicao de dados e necessario gerar um token.  
+  Esse token eh gerado a partir do usuario e senha informados no endPoint de Login.  
+</p>
+
 ## Pré-requisitos
 
 :warning: [.NET 5.0](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
