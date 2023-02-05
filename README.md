@@ -12,4 +12,18 @@
 
 ## Pré-requisitos
 
-:warning: [.NET 5](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
+:warning: [.NET 5.0](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
+:warning: [Fluent Validation]
+:warning: [Authentication.Core]
+:warning: [Authentication.JwtBearer]
+
+## Como rodar a aplicação :arrow_forward:
+
+Habilidar o projeto inicial como API -> Botao direito no projeto API -> Set as StartUp Project
+
+## Usuários
+
+|name|acesso|password|id|
+| -------- |-------- |-------- |-------- |
+|admin|admin|admin|1|
+|comum|comum|comum|2|
