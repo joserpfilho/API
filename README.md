@@ -23,6 +23,7 @@
 :warning: [.NET 5.0](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
 
 ## Bibliotecas utilizadas :books:
+
 - Fluent Validation
 - Authentication.Core
 - Authentication.JwtBearer
