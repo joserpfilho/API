@@ -15,9 +15,9 @@
 :warning: [.NET 5.0](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
 
 ## Bibliotecas utilizadas :books:
-- [Fluent Validation]
-- [Authentication.Core]
-- [Authentication.JwtBearer]
+- Fluent Validation
+- Authentication.Core
+- Authentication.JwtBearer
 
 ## Como rodar a aplicação :arrow_forward:
 
@@ -30,4 +30,4 @@ Habilidar o projeto inicial como API -> Botao direito no projeto API -> Set as S
 |admin|admin|admin|1|
 |comum|comum|comum|2| 
 
-
+Copyright :copyright: 2023 - DESAFIO C#
