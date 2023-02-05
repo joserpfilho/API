@@ -13,8 +13,9 @@
 ## Observações 
 
 <p align="justify">
-  Sempre, antes de qualquer requisicao de dados e necessario gerar um token.  
-  Esse token eh gerado a partir do usuario e senha informados no endPoint de Login.  
+  Sempre, antes de qualquer requisição de dados é necessário gerar um token. Esse token é gerado a partir do usuário e senha informados no endPoint de Login.  
+
+  Usuários  com acesso “comum” possuem apenas permissão de visualização, enquanto que usuários com acesso “admin”, podem criar e modificar dados.
 </p>
 
 ## Pré-requisitos
